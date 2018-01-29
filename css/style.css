@@ -7,7 +7,7 @@ body {
 	font-weight: normal;
 /* same as above */
 	font: normal Arial, Helvetica, sans-serif;
- 
+.main-header{
  line-height: 1.2em;
  margin: 0;
 }
